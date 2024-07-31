@@ -1,1 +1,2 @@
-docker pull kasmweb/ubuntu-focal-desktop
+kasmweb/ubuntu-focal-desktop
+pull ubuntu
