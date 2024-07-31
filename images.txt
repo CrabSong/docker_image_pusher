@@ -1,1 +1,1 @@
-docker pull kasmweb/ubuntu-focal-desktop-vpn
+docker pull kasmweb/ubuntu-focal-desktop
